@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSP-SP001-04-OPTAAJ000-recovered_cspp-optaa_dj_cspp_instrument_recovered
 data_stream: CE02SHSP-SP001-04-OPTAAJ000-recovered_cspp-optaa_dj_cspp_instrument_recovered
 end_date: '2021-09-17T02:08:54.322Z'
-last_updated: '2022-01-22T01:05:34.846761Z'
+last_updated: '2022-01-22T01:28:30.959180'
 start_date: '2015-03-18T19:36:56.793Z'
-status: pending
+status: success
